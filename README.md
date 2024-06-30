@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Genesis Luco</h1>
 <h3 align="center">I'm an aspiring Computer Scientist and a dedicated UX/UI design student with a strong foundation in Engineering, Physics, Chemistry, Calculus, Algebra, Differential Equations, Numerical Methods, and Statistical Analysis since 2019. I am a full-time researcher and a self-taught learner, specializing in data analysis.</h3>
 
-- 🔭 I’m currently working on [I have collaborated across various disciplines, advocating for women's representation in STEAM fields and participating in academies. My projects span both corporate and private sectors, including work on bids and quotes. I have worked on projects involving databases, client management, Excel, Office advanced, web development and Power BI. Additionally, I have experience in scientific outreach in English and have served as an ambassador for an astronomy academy called Into Space Academy in Chile. My roles have included internal coordination, design, social media management, marketing metrics, and content creation using tools like Canva, CapCut, Wix and Filmora.](https://academiaintospace.wixsite.com/academia-into-space)
+- 🔭 I’m currently working on [Academia Into Space](https://academiaintospace.wixsite.com/academia-into-space)
 
 - 🌱 I’m currently learning **My goal is to understand and learn from diverse communities and environments, fostering mutual growth and access to education. I am passionate about contributing to the community, believing that informatics research is a beautiful field. I aspire to establish myself in a company that values my projects, ambitions, and proactive leadership. While I have a solid foundation in Fullstack development, my primary interests lie in astronomy and scientific outreach. I am an ambitious, proactive, and strong leader. I am open to opportunities and collaborations. If you would like to support my work or connect with me, feel free to reach out. I am here to help and contribute as much as I can to the community.**
 
 - 👨‍💻 All of my projects are available at [https://genesisluco.my.canva.site/genesisluco](https://genesisluco.my.canva.site/genesisluco)
+
+- 💬 Ask me about **I have collaborated across various disciplines, advocating for women's representation in STEAM fields and participating in academies. My projects span both corporate and private sectors, including work on bids and quotes. I have worked on projects involving databases, client management, Excel, Office advanced, web development and Power BI. Additionally, I have experience in scientific outreach in English and have served as an ambassador for an astronomy academy called Into Space Academy in Chile. My roles have included internal coordination, design, social media management, marketing metrics, and content creation using tools like Canva, CapCut, Wix and Filmora.**
 
 - 📫 How to reach me **contactonvvmvc@gmail.com**
 
