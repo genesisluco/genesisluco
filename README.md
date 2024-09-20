@@ -1,15 +1,33 @@
-<h1 align="center">Hi 👋, I'm Genesis Luco</h1>
-<h3 align="center">I'm an aspiring Computer Scientist and a dedicated UX/UI design student with a strong foundation in Engineering, Physics, Chemistry, Calculus, Algebra, Differential Equations, Numerical Methods, and Statistical Analysis since 2019. I am a full-time researcher and a self-taught learner, specializing in data analysis.</h3>
+<h1 align="center">Hi there! 👋 I'm Genesis Luco</h1>
+<h3 align="center">I'm an enthusiastic Computer Science student with a strong foundation in Engineering Sciences, currently pursuing a Bachelor’s degree in Engineering. My journey began in 2019, and since then, I’ve specialized in UX/UI design and Data Analysis, blending creativity with analytical thinking to tackle complex problems.
+  
+I’m deeply passionate about technology and continuous learning, always eager to dive into new tools and cutting-edge methodologies. With a strong multidisciplinary background in Physics, Chemistry, Calculus, Algebra, Differential Equations, Numerical Methods, and Statistical Analysis, I enjoy applying these principles to solve real-world challenges in innovative ways.
 
-- 🔭 I’m currently working on [Academia Into Space](https://academiaintospace.wixsite.com/academia-into-space)
+My expertise spans across Full Stack Development, where I seamlessly integrate front-end and back-end technologies to craft user-friendly, data-driven solutions. What excites me the most is the fusion of design and engineering—developing intuitive, efficient, and visually appealing products that meet both user needs and technical standards.
 
-- 🌱 I’m currently learning **My goal is to understand and learn from diverse communities and environments, fostering mutual growth and access to education. I am passionate about contributing to the community, believing that informatics research is a beautiful field. I aspire to establish myself in a company that values my projects, ambitions, and proactive leadership. While I have a solid foundation in Fullstack development, my primary interests lie in astronomy and scientific outreach. I am an ambitious, proactive, and strong leader. I am open to opportunities and collaborations. If you would like to support my work or connect with me, feel free to reach out. I am here to help and contribute as much as I can to the community.**
+Whether I’m designing engaging user interfaces or tackling complex data architectures, I love taking on projects that challenge me to push the limits of technology and enhance the overall user experience.
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://genesisluco.my.canva.site/genesisluco](https://genesisluco.my.canva.site/genesisluco)
+- 🔭 I currently serve as the Director of Connections and Ambassador at [Academia Into Space](https://academiaintospace.wixsite.com/academia-into-space) where I lead initiatives that foster collaboration across a diverse network of global organizations. I actively participate in the Admissions and Partnerships Committees, working with individuals from different cultures and age groups around the world to build meaningful alliances.
 
-- 💬 Ask me about **I have collaborated across various disciplines, advocating for women's representation in STEAM fields and participating in academies. My projects span both corporate and private sectors, including work on bids and quotes. I have worked on projects involving databases, client management, Excel, Office advanced, web development and Power BI. Additionally, I have experience in scientific outreach in English and have served as an ambassador for an astronomy academy called Into Space Academy in Chile. My roles have included internal coordination, design, social media management, marketing metrics, and content creation using tools like Canva, CapCut, Wix and Filmora.**
+In addition to my leadership roles, I contribute to the UX/UI design efforts and assist in the development of the website and the Discord server. My work combines technical skills with creative problem-solving to ensure seamless digital experiences for our growing community of space enthusiasts and learners.
 
-- 📫 How to reach me **genesislucomk@gmail.com**
+- 🌱 I’m currently expanding my knowledge in informatics and scientific outreach, with a goal to learn from and engage with diverse communities and environments. I believe in fostering mutual growth and enhancing access to education. I'm deeply passionate about contributing to the community, seeing informatics research as a powerful and impactful field.
+My aspiration is to establish myself in a company that values innovation, ambition, and proactive leadership. While I have a solid foundation in Full Stack Development, my core interests lie in astronomy and scientific communication. I consider myself an ambitious, proactive, and strong leader, always open to new opportunities and collaborations.
+
+Feel free to reach out if you'd like to collaborate or support my work. I'm always excited to connect with others and contribute to the community in meaningful ways.
+
+
+- 👨‍💻 You can explore all of my projects and learn more about me through my personal portfolios and websites. I regularly share updates, resources, and insights about my current work and passions. Visit my Canva portfolio, my Beacons page, or my Notion site to dive deeper into who I am and what I’m working on.
+
+- 💬 Ask me about: I have collaborated across various disciplines, passionately advocating for women's representation in STEAM fields and engaging in educational academies. My projects include web development and mobile applications, such as my work as a Key Account Manager and my current role as a Community Manager in academies focused on empowering women in STEAM. I regularly give talks on technology, contributing to the conversation in both the public and private sectors.
+I have extensive experience with programming languages including Python, HTML, CSS, JavaScript, Ruby, and frameworks like Ruby on Rails, as well as C++, C#, C, Scheme, Prolog, COBOL, and PHP. My projects involve data analysis, database management, and developing both web applications and servers. I hold certifications in all these languages, enhancing my technical expertise.
+
+Additionally, I leverage my knowledge in psychology to strengthen my soft skills, which is crucial in my roles. As a scientific communicator in Chile, I promote scientific outreach in Spanish as an ambassador for the Into Space Academy and participate in various initiatives across other countries. I also provide training and workshops on technology using Python and Ruby for diverse educational sectors.
+
+In my free time, I enjoy going for runs, creating amigurumi crafts, binge-watching series, and exploring programming challenges. I’m passionate about makeup and love expressing my creativity through writing and reading books. Balancing my interests keeps me motivated and inspired in both my professional and personal life.
+
+- 📫 How to reach me: You can contact me at contactonvvmvc@gmail.com. I look forward to connecting!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
